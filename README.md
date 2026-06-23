@@ -1,4 +1,5 @@
 # Super-Store-Analysis-Dashboard
+
 ## Introduction
 
 The Super Store Sales Dashboard is created using Power BI to analyze sales, profit, quantity, customer segments, payment modes, shipping modes, and product categories.
